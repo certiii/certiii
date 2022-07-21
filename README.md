@@ -19,6 +19,8 @@
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
+- 📘 [***Certiii/WinnieTheMod***] <br/>
+  A multipurpose qol mod for hypixel skyblock!
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
